@@ -60,19 +60,18 @@ src/
 
 ## How to Run Frontend
 
-### 1. Clone repository
+1. Clone repository
 ```bash
 git clone https://github.com/nikhita003/86-no-more-frontend.git
 
----
 
-### 2. Install dependencies
+2. Install dependencies
 npm install
 
-**3. Start application**
+3. Start application
 npm start
 
-**4. Open in browser**
+4. Open in browser
 http://localhost:3000
 
 
