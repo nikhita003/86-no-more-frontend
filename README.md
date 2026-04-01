@@ -90,7 +90,6 @@ The system dynamically updates menus based on ingredient availability, improving
    npm start
 
 4. Open in browser
-   ```bash
    http://localhost:3000
 
 
