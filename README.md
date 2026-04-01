@@ -99,23 +99,22 @@ Backend Repository
 🔗 https://github.com/nikhita003/86-no-more-backend
 
 
-**My Contribution**
-```bash
+## My Contribution
+
 Designed and implemented frontend features for a dual-purpose interface
 Improved user workflows and real-time interactions
 Enhanced UI performance and usability
-```
 
-**Future Improvements**
-```bash
+
+## Future Improvements
+
 Advanced UI/UX enhancements
 Accessibility improvements
 Integration with predictive analytics features
-```
 
 
-License
-```bash
+
+## License
+
 MIT License
-```
 
