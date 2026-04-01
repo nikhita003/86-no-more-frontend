@@ -49,11 +49,25 @@ The system dynamically updates menus based on ingredient availability, improving
 ---
 
 ## Project Structure
-src/
-├── components/
-├── pages/
-├── assets/
-├── services/
+86-no-more-frontend/
+├── public/ # Static files
+├── src/ # Main application source code
+│ ├── actions/ # Redux actions
+│ ├── components/ # Reusable UI components
+│ ├── helpers/ # Utility/helper functions
+│ ├── images/ # Image assets
+│ ├── reducers/ # Redux reducers
+│ ├── store/ # Redux store configuration
+│ ├── tests/ # Unit and component tests
+│ ├── index.js # Application entry point
+│ ├── index.css # Global styles
+│ └── setupTests.js # Testing configuration
+├── docs/ # Documentation files
+├── coverage/ # Test coverage reports
+├── videos/ # Demo/media files
+├── .github/ # GitHub workflows/config
+├── package.json # Dependencies and scripts
+├── .gitignore # Git ignore rules
 
 ---
 
