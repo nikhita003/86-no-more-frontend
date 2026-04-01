@@ -100,16 +100,22 @@ Backend Repository
 
 
 **My Contribution**
+```bash
 Designed and implemented frontend features for a dual-purpose interface
 Improved user workflows and real-time interactions
 Enhanced UI performance and usability
+```
 
 **Future Improvements**
+```bash
 Advanced UI/UX enhancements
 Accessibility improvements
 Integration with predictive analytics features
+```
 
 
 License
+```bash
 MIT License
+```
 
