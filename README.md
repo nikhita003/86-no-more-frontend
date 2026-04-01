@@ -90,7 +90,7 @@ The system dynamically updates menus based on ingredient availability, improving
    npm start
 
 4. Open in browser
-   http://localhost:3000
+   - http://localhost:3000
 
 
 Backend Repository
