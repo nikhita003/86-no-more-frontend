@@ -62,16 +62,19 @@ src/
 
 1. Clone repository
    ```bash
-      git clone https://github.com/nikhita003/86-no-more-frontend.git
+   git clone https://github.com/nikhita003/86-no-more-frontend.git
    
 2. Install dependencies
-npm install
+   ```bash
+   npm install
 
 3. Start application
-npm start
+   ```bash
+   npm start
 
 4. Open in browser
-http://localhost:3000
+   ```bash
+   http://localhost:3000
 
 
 Backend Repository
