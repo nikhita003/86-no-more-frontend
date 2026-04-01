@@ -63,32 +63,3 @@ src/
 1. Clone repository
 ```bash
 git clone https://github.com/nikhita003/86-no-more-frontend.git
-
-2. Install dependencies
-npm install
-
-3. Start application
-npm start
-
-4. Open in browser
-http://localhost:3000
-
-
-Backend Repository
-
-🔗 https://github.com/nikhita003/86-no-more-backend
-
-
-**My Contribution**
-Designed and implemented frontend features for a dual-purpose interface
-Improved user workflows and real-time interactions
-Enhanced UI performance and usability
-
-**Future Improvements**
-Advanced UI/UX enhancements
-Accessibility improvements
-Integration with predictive analytics features
-
-
-License
-MIT License
