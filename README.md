@@ -49,6 +49,7 @@ The system dynamically updates menus based on ingredient availability, improving
 ---
 
 ## Project Structure
+
 86-no-more-frontend/
 ├── public/ # Static files
 ├── src/ # Main application source code
