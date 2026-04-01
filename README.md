@@ -64,7 +64,6 @@ src/
 ```bash
 git clone https://github.com/nikhita003/86-no-more-frontend.git
 
-
 2. Install dependencies
 npm install
 
